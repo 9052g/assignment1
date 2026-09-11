@@ -10,3 +10,6 @@ Nees, G. (1968). *Schotter* [Generative artwork]. Media Art Net. http://www.medi
 Reas, C., McWilliams, C., & LUST. (2010). *Form+code in design, art, and architecture*. Princeton Architectural Press. https://formandcode.com/
 
 Nake, F. (1965). Walk-through raster [Generative artwork]. Media Art Net. http://www.mediaartnet.org/artists/frieder-nake/
+The relationship between designers and programming is not a modern invention. Back in the 1960s, artists and designers such as Georg Nees and Frieder Nake used early computer code to create visual art. Nees’s work *Schotter* uses simple programming rules to create a grid of distorted rectangles, proving that code can be a creative artistic medium rather than merely an engineering tool (Nees, 1968).
+
+Reas and McWilliams (2010) argue in *Form+Code* that code is a fundamental material for contemporary design. Many people misunderstand programming as purely technical work reserved for software engineers. However, for designers, code is a way to define visual rules and build generative systems. With coding literacy, designers can create variable graphics, interactive installations and dynamic visual outputs that would be impossible to draw manually.
